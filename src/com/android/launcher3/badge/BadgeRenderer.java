@@ -38,7 +38,7 @@ import com.android.launcher3.graphics.ShadowGenerator;
  */
 public class BadgeRenderer {
 
-    private static final boolean DOTS_ONLY = false;
+    private static final boolean DOTS_ONLY = true;
 
     // The badge sizes are defined as percentages of the app icon size.
     private static final float SIZE_PERCENTAGE = 0.38f;
